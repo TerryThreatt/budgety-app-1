@@ -1,3 +1,3 @@
-#Budgety App 
+# Budgety App 
 --
 ### VanillaJS budgeting app
