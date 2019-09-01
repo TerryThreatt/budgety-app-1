@@ -10,6 +10,7 @@ You can check out the live deployed app [here](https://github.com/TerryThreatt/b
 ## Built With
 
 Javascript - Protoyping & Dom manipulation
+
 CSS - Styling 
 
 ## Author
