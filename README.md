@@ -4,7 +4,7 @@ This VanillaJS app uses helps get track of budgeting expenses. This app served a
 
 ## Getting Started
 
-You can check out the live deployed app [here:] (https://github.com/TerryThreatt/budgety-app-1)
+You can check out the live deployed app [here:](https://github.com/TerryThreatt/budgety-app-1)
 
 
 ## Built With
